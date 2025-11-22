@@ -1,2 +1,4 @@
-49c97dd (HEAD -> main) Complete Task 1.1
-69e4062 (origin/main, origin/HEAD) Initial commit
+7a5734e Complete extracting switch statement logic
+19ffc69 Complete Task 1.2
+49c97dd Complete Task 1.1
+69e4062 Initial commit
