@@ -1,3 +1,4 @@
+42963ff Complete Task 2.2
 28802c5 Complete Task 2.1
 7a5734e Complete extracting switch statement logic
 19ffc69 Complete Task 1.2
